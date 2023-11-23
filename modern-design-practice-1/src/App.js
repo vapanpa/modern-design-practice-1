@@ -11,6 +11,7 @@ function App() {
           <div className={` pt-10${styles.paddingX} ${styles.flexCenter}`} >
               <div className={`${styles.boxWidth}`}>
                   <Navbar />
+                  <Hero />
               </div>
           </div>
       </div>
